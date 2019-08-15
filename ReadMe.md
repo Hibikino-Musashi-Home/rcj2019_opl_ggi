@@ -1,6 +1,6 @@
 # Go Get It in Unknown Environment
 本リポジトリは，Hibikino-Musashi@Home（本チーム）が
-RoboCup Japan Open 2018 で
+RoboCup Japan Open 2019 で
 Go Get It in Unknown Environmentを達成する際に用いたプログラムである．
 
 本リポジトリは，以下のソースコードを含む．
@@ -8,8 +8,8 @@ Go Get It in Unknown Environmentを達成する際に用いたプログラムで
 * double\_metaphone\_server.py：DoubleMetaphoneアルゴリズムにより音の近さを計算するサービスサーバ
 
 ## 実行環境
-* Ubuntu14.04
-* ROS Indigo
+* Ubuntu16.04
+* ROS Kinetic
 
 ## 達成手法
 ### 概要
