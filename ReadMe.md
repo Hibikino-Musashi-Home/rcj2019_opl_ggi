@@ -6,7 +6,7 @@ Go Get It in Unknown Environmentを達成する際に用いたプログラムで
 本リポジトリは，以下のソースコードを含む．
 * sm\_ggi.py：タスク設計プログラム
 * double\_metaphone\_server.py：DoubleMetaphoneアルゴリズムにより音の近さを計算するサービスサーバ
-
+* follow_person.cpp:人物追跡のプログラム
 ## 実行環境
 * Ubuntu16.04
 * ROS Kinetic
